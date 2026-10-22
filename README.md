@@ -22,3 +22,11 @@ pro tip... spotify sounds are better...   see below for style
 
 
 pro tip... to get start menu to show up where you can pin prop hunt to your start menu sometimes you gotta run the setup exe twice to verify, it wont install it twice fr, but seriously its to verify to windows you meant to install a user app <3 i swear but do what you want 
+
+
+
+
+<hr>
+
+
+https://www.walmart.com/ip/PowerA-Wired-Controller-for-Nintendo-Switch-Black/823991368
