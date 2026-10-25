@@ -1,4 +1,11 @@
 # PropHunt-HEADSHOT-for-windows
+
+<hr>
+<a href="https://github.com/airstairs/prophunt-headshot">Checkout PropHunt HEADSHOT for mobile</a>
+<a href="https://github.com/airstairs/prophunt-headshot_vertical">Checkout PropHunt HEADSHOT for mobile in portrait orientation (vertical)</a>
+<hr>
+
+
 PropHunt-HEADSHOT for Windows 11 with support for 1 controller   
 
 
